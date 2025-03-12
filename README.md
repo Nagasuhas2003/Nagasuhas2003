@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/02ae073a-e84a-4e85-bdf9-e8314dc64947)# Hello World! 👋🏼 I'm Nagasuhas  
+# Hello World! 👋🏼 I'm Nagasuhas  
 🛜 Currently working on Python and Machine Learning  
 👨🏼‍🎓 Studying at Bangalore Institute of Technology  
 👨🏼‍💻 Intern @ Compsoft Technologies  
