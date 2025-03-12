@@ -1,4 +1,4 @@
-# Hello World! 👋🏼 I'm Nagasuhas  
+![image](https://github.com/user-attachments/assets/02ae073a-e84a-4e85-bdf9-e8314dc64947)# Hello World! 👋🏼 I'm Nagasuhas  
 🛜 Currently working on Python and Machine Learning  
 👨🏼‍🎓 Studying at Bangalore Institute of Technology  
 👨🏼‍💻 Intern @ Compsoft Technologies  
@@ -53,7 +53,7 @@
 ---
 
 ### 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nagasuhas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasuhas-s/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nagasuhas/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nagasuhas/)
 
